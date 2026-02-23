@@ -10,8 +10,8 @@ The first project is "Getting started with embedded systems project" (30% of ove
 
 Important dates
 
-- Release date: 21FEB2025
-- Due date: 20MAR2025 (Extended to Sunday 23MAR2025).
+- Release date: 20FEB2026
+- Due date: 20MAR2026
 
 Students are to take on one of the [suggested projects](https://tudublin-my.sharepoint.com/:x:/g/personal/paul_leamy_tudublin_ie/ESnQxLlLlZ5OqGfhCt9RQpwBAKohSaDb5bfA4oO2LM9quw?e=w1iZP4) (or if they prefer propose their own) and develop a develop an embedded system.
 
