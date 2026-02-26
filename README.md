@@ -39,7 +39,7 @@ From the indicative content and LOs, the following criteria have been created.
 	- Debugging procedures e.g. verifying registers are being updated accordingly using the software debugger or hardware debugging either with a logic analyser or an ad-hoc method like using the GPIO during an interrupt.
 	- A clear reasoning for a test that outlines how the test will help debug or verify correct operation.
 - Presentation/demonstration (10%)
-	- A short video (5 mins max), uploaded to YouTube, that demonstrates that the functionality of the embedded system and any significant features.
+	- A video (5 mins max), uploaded to YouTube, that demonstrates the functionality of the embedded system, any significant features, and your understanding of the key working details of your system and code.
 
 # Project schedule
 
