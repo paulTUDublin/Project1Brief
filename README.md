@@ -13,7 +13,7 @@ Important dates
 - Release date: 20FEB2026
 - Due date: 20MAR2026
 
-Students are to take on one of the [suggested projects](https://tudublin-my.sharepoint.com/:x:/g/personal/paul_leamy_tudublin_ie/ESnQxLlLlZ5OqGfhCt9RQpwBAKohSaDb5bfA4oO2LM9quw?e=w1iZP4) (or if they prefer propose their own) and develop an embedded system.
+Students are to take on one of the [suggested projects](https://tudublin-my.sharepoint.com/:x:/g/personal/paul_leamy_tudublin_ie/IQBBt327aW0SQpLUkluE7rvrAcVtPOxyvEA4XCqmJpasj1A?e=QD9VTR) (or if they prefer propose their own) and develop an embedded system.
 
 Learning outcomes that are to be addressed in this project are 1, 2, 4, 5, 6.
 
